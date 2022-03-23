@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["𝘞𝘋 𝘉𝘖𝘛 𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘌𝘙", "𝘌𝘟𝘗𝘌𝘙𝘛", "𝘈 𝘋𝘌𝘝𝘐𝘓"],
+        strings: ["ʜᴇʜᴇ", "𝘌𝘟𝘗𝘌𝘙𝘛", "𝘈 𝘋𝘌𝘝𝘐𝘓"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
